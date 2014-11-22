@@ -5,4 +5,4 @@ This is a pebble.js based application. It's built on top of the [västtrafik API
 
 This is still in development, well maybe not active but there are issues that need to be worked out befoe it could be released on the pebble store. Please check issues to the right.
 
-![Departures][http://i.imgur.com/tHA3DUB.jpg]
+![Departures](http://i.imgur.com/tHA3DUB.jpg)
